@@ -1,15 +1,15 @@
-# Wordpress child theme
+# Thème enfant (child theme) pour Wordpress
 
-Exemple de child theme pour Wordpress.
+Exemple de thème enfant pour Wordpress.
 
 ## Installation
 
-1. copiez le dossier du child thème dans le dossier `wp-content/themes/` de votre installation Wordpres.
-2. dans l'admin de Wordpress, affichez la page « Thèmes » (le child thème devrait apparaître)
-3. activez le child theme
+1. copiez le dossier du thème enfant `twentyseventeen-child` dans le dossier `wp-content/themes/` de votre installation Wordpres.
+2. dans l'admin de Wordpress, affichez la page « Thèmes », le thème enfant devrait apparaître
+3. activez le thème enfant
 
-## twentyseventeen-child
+## Twenty Seventeen Child Theme
 
-Exemple de child theme pour le thème `twentyseventeen` livré avec Wordpress.
-C'est un exemple ultra minimaliste mais qui peut servir de base si on veut faire des modifications de CSS du thème parent.
+Exemple de thème enfant pour le thème `twentyseventeen` livré avec Wordpress.
+C'est un exemple ultra minimaliste qui peut servir de base si on veut faire de simples modifications de CSS du thème parent.
 
