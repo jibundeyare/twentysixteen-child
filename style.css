@@ -1,12 +1,16 @@
 /*
-Theme Name:   Twenty Seventeen Child
+Theme Name:   Twenty Sixteen Child
 Theme URI:    https://github.com/jibundeyare/src-wordpress-child-theme
-Description:  Twenty Seventeen Child Theme
+Description:  Twenty Sixteen Child Theme
 Author:       Jibundeyare
 Author URI:   https://github.com/jibundeyare/
-Template:     twentyseventeen
+Template:     twentysixteen
 Version:      1.0.0
 */
 
 /* put your css code here */
+
+h1 {
+  color: pink;
+}
 
